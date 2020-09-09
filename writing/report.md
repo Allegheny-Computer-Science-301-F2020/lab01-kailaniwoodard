@@ -29,26 +29,26 @@
 
 ### Article 2
  -  Article name.
- - Your answer here
+ - Every step you take: why Google's plan to buy Fitbit has the ACCC's pulse racing
 
 -  Reference or article citation.
- - Your answer here
+ - Kemp, K. (2020, June 23). Every step you take: why Google's plan to buy Fitbit has the ACCC's pulse racing. https://theconversation.com/every-step-you-take-why-googles-plan-to-buy-fitbit-has-the-acccs-pulse-racing-141052.
 
 - Briefly describe the article's premise.
- - Your answer here
+ - The article describes the Australian Competition and Consumer Commission's concerns regarding Google's potential acquisition of the fitness tracker company, Fitbit. It continues to elaborate on the ACCC's concerns of Google acquiring even more consumer data.
 
 - What is the ethical concern, in your opinion?
- - Your answer here
+ - Google acquiring more data, specifically the health data that Fitbit collects, increases the information they can use to track consumers. Since Google already has an incredibly extensive collection of consumer data, compiled from its other companies such as YouTube and Android, the acquisition of more intimate data is causation for more worry. Using health data, Google has no bounds as to what they cannot do; they can target consumers based on their specific health data, which in my opinion is incredibly unethical.
 
 - What data is being manipulated in the article?
- - Your answer here
+ - Fitbit's health data, such as sleeping patterns, heart rate, active minutes, height and weight,  birth date, food logs, mobile number, precise location data at the very least. If a particular consumer elects to use Fitbit's other services, this can also include wellness goals and plans, calendar events, coach communications, period tracking, fertile times, ovulation schedule and other health symptoms.
 
 - Briefly describe the analysis, as you understand it.
- - Your answer here
+ - Since Fitbit is a wearable device, it tracks the bodily functions and any other data that a consumer would elect to give. Google's acquisition of Fitbit gives them the ability to analyze this data for their personal use or at the very least to add to their detailed consumer profiles.
 
 - Who stands to lose or to gain something from this form of analysis?
- - Your answer here
+ - Google stands to gain an incredible amount from gaining Fitbit's data analysis logs by gaining a competitive edge by preventing competitors from accessing the data set and again also gives them more information to add to their extensively detailed consumer profiles. On the other hand, consumers have an incredible amount to lose in privacy and their own data freedom. Google's acquisition of this health information only increases the tight chokehold that they have on society.
 
 
 
-#### Did you remember to add your name to this document?
+#### Did you remember to add your name to this document? *Of course.*
